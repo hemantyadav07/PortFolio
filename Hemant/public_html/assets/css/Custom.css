@@ -1,0 +1,16 @@
+.social-icons{
+    justify-content: start !important;
+}
+.navbar .brand .brand-img {
+    border-radius:2%;
+}
+.portfolio .filters {
+    justify-content: start !important;
+}
+.social-icons{
+    justify-content: start !important;
+
+}
+.social-icons .social-link {
+padding: 10px;
+}
